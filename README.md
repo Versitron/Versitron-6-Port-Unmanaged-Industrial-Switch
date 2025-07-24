@@ -93,4 +93,5 @@ To purchase the **VERSITRON SF70660** or inquire about technical support, visit 
 ## License
 
 This documentation is licensed under the MIT License.
+
 [Also browse Versitrons 6 Port Unmanaged Industrial Switch](https://www.versitron.com/collections/fiber-ethernet-unmanaged-switches)
